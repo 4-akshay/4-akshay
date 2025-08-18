@@ -2,21 +2,20 @@
   <img src="https://your-image-url.com/banner.png" alt="My Profile Banner" width="100%"/>
 </p>
 
-<h1 align="center">Hi there, I'm Alex 👋</h1>
-<h3 align="center">A Passionate Full-Stack Developer from Pimpri-Chinchwad, India</h3>
+<h1 align="center">Hi there, I'm Akshay 👋</h1>
+<h3 align="center">A Passionate Full-Stack Developer from Pune, India</h3>
 
 <p align="left">
-  I'm a software developer with a knack for creating elegant solutions in the least amount of time. I'm currently working on a super-secret project involving AI-powered coffee machines ☕. I love contributing to open-source and building tools that make developers' lives easier.
+  I'm a software developer with a knack for creating elegant solutions in the least amount of time. I'm currently working on a project involving a collborative whiteboard web-app.
 </p>
 
-- 🔭 I’m currently working on **Project X - A MERN Stack E-commerce Platform**
-- 🌱 I’m currently learning **Advanced TypeScript and GraphQL**
+- 🔭 I’m currently working on **A collborative whiteboard tool**
+- 🌱 I’m currently learning **Typescript**
 - 👯 I’m looking to collaborate on **open-source developer tools**
 - 🤔 I’m looking for help with **optimizing my database queries**
 - 💬 Ask me about **React, Node.js, and anything related to JavaScript**
-- 📫 How to reach me: **alex.dev@email.com**
+- 📫 How to reach me: **kateakshay@proton.me**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under a minute!**
 
 ---
 
@@ -44,13 +43,6 @@
 
 ---
 
-<h3 align="left">My GitHub Stats:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en&theme=tokyonight" alt="Your GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
